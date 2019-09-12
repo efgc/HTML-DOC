@@ -5,6 +5,7 @@ Rosa
 Naranja
 Azul
 Verde
+Mostaza
 Unicornio
 Amarillo
 Rojo
