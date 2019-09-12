@@ -1,4 +1,4 @@
-Colores y el unicornio
+Colores y el unicornio y el caballo
 
 Purpura
 Rosa
@@ -11,3 +11,4 @@ Amarillo
 Rojo
 Estos son los colores del arcoiris.
 Y el unicornio
+Y el caballo
